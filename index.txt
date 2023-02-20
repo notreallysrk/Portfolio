@@ -72,31 +72,31 @@ This Privacy Policy applies only to our online activities and is valid for users
 
 
 
-#---------- SKILLS ----------#
+#---------- Languages ----------#
 
-My Skills
+Languages
 
-I Develop Skills Regularly
+I Update Everyday Bot
 
-Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehen derit in voluptate
-
-CSS
-95%
-
-React
-75%
-
-MongoDB
-90%
+Which language and library was used to create patricia bot.
 
 Python
-70%
+95%
+
+Telethon
+25%
+
+PyroGram
+60%
+
+AioGram
+3%
 
 PHP
-80%
+10%
 
 JavaScript
-75%
+10%
 
 
 
@@ -116,11 +116,11 @@ Submit Message
 
 <ion-icon name="location"></ion-icon>
 Address
-20, London, United Kingdom
+New Delhi, Uttar Pradesh 
 
 <ion-icon name="mail"></ion-icon>
 Email
-hello@ethan.com
+notreallysameer@gmail.com
 
 <ion-icon name="call"></ion-icon>
 Phone
@@ -128,25 +128,9 @@ Phone
 
 
 
-#---------- BLOG ----------#
-
-Latest News
-
-Checkout My Recent Blogs
-
-Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehen derit in voluptate
-
-alt = Jim Morisson Says when the musics over turn off the light
-
-Web Development
-
-Jim Morisson Says when the musics over turn off the light
-
-
-
 #---------- FOOTER ----------#
 
-&copy; 2022 codewithsadee. All Rights Reseverd
+&copy; 2023 Sameer Khan. All Rights Reseverd
 
 Terms & Condition 
 Privacy Policy
