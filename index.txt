@@ -1,0 +1,158 @@
+Sameer Khan - Web Developer from New Delhi
+
+
+
+#---------- HEADER ----------#
+
+Patricia Robot
+
+aria-label = Toggle Menu
+
+<ion-icon name="menu-outline"></ion-icon>
+<ion-icon name="close-outline"></ion-icon>
+
+Home
+Privacy
+Languages
+Contact
+
+Download CV
+
+
+
+#---------- HERO ----------#
+
+alt = Patricia's Photo
+
+3
+Years of Success
+
+20+
+Projects Completed
+
+<ion-icon name="trophy"></ion-icon>
+
+alt = I'm Patricia Bot 
+
+Hello I'm
+
+Patricia Robot
+
+The Most Powerful TeleGram Bot
+
+This is Patricia bot with amazing tools like logo maker, songs, videos, group management tools and many more.
+
+Get a Quote
+
+Privacy
+
+
+
+#---------- PRIVACY ----------#
+
+alt = Patricia's Photo
+
+alt = Patricia's Photo
+
+<ion-icon name="logo-css3"></ion-icon>
+<ion-icon name="logo-javascript"></ion-icon>
+<ion-icon name="logo-angular"></ion-icon>
+
+I'm a PatriciaBot
+
+PATRICIA BOT PRIVACY POLICY
+
+At Patricia Robot, accessible from @Patricia_Robot on Telegram and all others Bots connected to it, one of our main priorities is the privacy of our users.
+This Privacy Policy document contains types of information that is collected and recorded by Group Help.
+View Portfolio
+
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us with Support button in the Bot or through our email.
+
+This Privacy Policy applies only to our online activities and is valid for users who come into contact to our Telegram Bots with regards to the information that they shared and/or collect in Group Help or that Telegram shares with Group Help related to them. This policy is not applicable to any information collected offline or via channels other than these Telegram Bots.
+
+
+
+#---------- SKILLS ----------#
+
+My Skills
+
+I Develop Skills Regularly
+
+Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehen derit in voluptate
+
+CSS
+95%
+
+React
+75%
+
+MongoDB
+90%
+
+Python
+70%
+
+PHP
+80%
+
+JavaScript
+75%
+
+
+
+#---------- CONTACT ----------#
+
+Don't be shy
+
+Drop Me a Line
+
+placeholder = Name
+
+placeholder = Email
+
+placeholder = Message
+
+Submit Message
+
+<ion-icon name="location"></ion-icon>
+Address
+20, London, United Kingdom
+
+<ion-icon name="mail"></ion-icon>
+Email
+hello@ethan.com
+
+<ion-icon name="call"></ion-icon>
+Phone
++123 456 7890
+
+
+
+#---------- BLOG ----------#
+
+Latest News
+
+Checkout My Recent Blogs
+
+Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehen derit in voluptate
+
+alt = Jim Morisson Says when the musics over turn off the light
+
+Web Development
+
+Jim Morisson Says when the musics over turn off the light
+
+
+
+#---------- FOOTER ----------#
+
+&copy; 2022 codewithsadee. All Rights Reseverd
+
+Terms & Condition 
+Privacy Policy
+
+
+
+#---------- BACK TO TOP ----------#
+
+BACK TOP
